@@ -1,8 +1,8 @@
 # Django Todo App
-A simple todo app built with Django
+A todo application built with Django
 <img width="1440" alt="todo app" src="https://github.com/Hamza-H10/django-todo-cicd/assets/123259911/0a25c034-e42c-4ede-8666-c3a7246c4696">
 
-Setup
+## Setup
 To get this repository, run the following command inside your git-enabled terminal
 $ git clone https://github.com/shreys7/django-todo.git
 
